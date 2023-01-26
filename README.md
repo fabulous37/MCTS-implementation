@@ -11,7 +11,5 @@ MCTS implementation using UCT formula as heuristic search. A visualisation tool 
 Free ressources to learn more about the MCTS algorithm:
 
 https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
-
 https://www.youtube.com/watch?v=UXW2yZndl7U
-
 https://www.youtube.com/watch?v=xmImNoDc9Z4&t=1980s
